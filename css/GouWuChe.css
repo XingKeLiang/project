@@ -1,0 +1,231 @@
+.backgTop{
+	display: block;
+    background: url(../img/result-top-btn.png) no-repeat;
+    width: 70px;
+    height: 65px;
+    position: fixed;
+    right: 50px;
+    bottom: 180px;
+    cursor: pointer;
+    z-index: 15;
+}
+.concent{
+	width: 100%;
+	
+}
+.concent_conter{
+	width: 1200px;
+	margin: 15px auto 0;
+}
+.conter_ul{
+	width: 100%;
+	height:21px;
+}
+.conter_ul li{
+	float: left;
+	font-size: 16px;
+	color: #666;
+	padding-left: 15px;
+}
+.conter_ul li a{
+	color: #666;
+}
+.conter_img{
+	width: 1200px;
+	height: 300px;
+	margin-top: 15px;
+}
+.conter_h3{
+	width: 100%;
+	height: 34px;
+	margin-top: 15px;
+}
+.conter_h3 span{
+	width: 64px;
+	height: 34px;
+    line-height: 34px;
+    padding: 0 25px;
+    background-color: #005BAA;
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    display: block;
+    font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+}
+.concent_div1{
+	width: 1200px;
+	height: 28px;
+}
+.concent_redeo{
+	padding-top:10px;
+	float: left;
+	width: 51px;
+	height: 28px;
+	line-height:28px;
+	margin-left: 20px;
+}
+.concent_redeo_sinp{
+	cursor: pointer;
+	margin-right: 10px;
+	float: left;
+	margin-top: 9px;
+}
+.concent_redeo_label{
+	font-size: 14px;
+	font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+}
+.concent_redeo_span{
+	cursor: pointer;
+	margin-right: 15px;
+	float: right;
+	width: 111px;
+    height: 28px;
+    background: url(../img/emptySpan.jpg) no-repeat;
+}
+.ShoppingList{
+	margin-top: 10px;
+	border: solid 1px #BBB4B4;
+    padding: 8px 0 5px 8px;
+    width: 99%;
+    overflow: hidden;
+}
+.tab{
+	width: 99%; 
+	height: 100%;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #666;
+	text-align: center;
+}
+.tab tr{
+	height: 33px;
+}
+.tab th{
+	text-align: center;
+    background-color: #999;
+    font-weight: bold;
+    border: solid 1px #BBB4B4;
+    color: white;
+}
+.tab td{
+	border: solid 1px #BBB4B4;
+}
+.shop_tu{
+	padding: 15px  0;
+	width:304px;
+	height: 119px;
+}
+.shop_tu input{
+	margin-right: 10px;
+}
+.shop_tu img{
+	width: 90px;
+	height: 90px;
+	margin-top: 10px;
+}
+.shop_tu span{
+	margin-left: 10px;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #666;
+	width: 160px;
+	display:inline-block;
+	text-align-last: left;
+}
+.tab .jifen{
+	width: 120px;
+}
+.jia,.jian{
+	width: 25px;
+	height: 25px;
+	background: white;
+	outline: none;
+	border: none;
+	border:1px solid #BBB4B4;
+}
+.col{
+	color: red;
+}
+.shuru{
+	height: 25px;
+	width: 57px;
+	text-align: center;
+}
+.yinxiang{
+	width: 160px;
+    max-height: 67px;
+    overflow: hidden;
+    margin-top: 15px;
+}
+.xiaoji{
+	width: 170px;
+}
+.guige{
+	width:253px;
+}
+.del{
+	width: 129px;
+	color: #333333;
+}
+.zongji{
+	height: 45px;
+	line-height: 45px;
+}
+.boer{
+	position: relative;
+	bottom: 20px;
+}
+.xinx{
+	position: relative;
+	top: 10px;
+}
+.Empty_car_ri{
+	float: right;
+	margin-right: 10px;	
+	font-size: 14px;
+}
+.Empty_car_ri p{
+	float: right;
+	margin-left: 40px;
+}
+.Empty_car_ri p span{
+	color: #FC0C0C;
+	font-size: 16px;
+	font-weight: bolder;
+}
+.Account{
+	padding: 20px;
+}
+ .Account .Account_lf{
+ 	display: inline-block;
+	background: url(../img/immedOrder.png) no-repeat;
+	width: 183px;
+	height: 50px;
+}
+.Account .Account_rg{
+	display: inline-block;
+	background: url(../img/immedOrder.png) no-repeat 0 -100px;
+	width: 183px;
+	height: 50px;
+	float: right;
+}
+.Empty_car_lf{
+	width: 120px;
+	float: left;
+	padding-left: 15px;
+}
+.Empty_car_lf .check {
+	padding: 0 5px;
+}
+.Empty_car_lf .check1{
+	padding-left: 15px;
+}
+.ShoppingList tr .del{
+	cursor: pointer;
+}
+.xiaoji span{
+	color: #666;
+}
+.curaor_pointer{
+	cursor: pointer;
+}

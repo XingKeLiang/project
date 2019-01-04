@@ -1,0 +1,173 @@
+.backgTop{
+	display: block;
+    background: url(../img/result-top-btn.png) no-repeat;
+    width: 70px;
+    height: 65px;
+    position: fixed;
+    right: 50px;
+    bottom: 180px;
+    cursor: pointer;
+    z-index: 15;
+}
+.concent{
+	width: 100%;
+	
+}
+.concent_conter{
+	width: 1200px;
+	margin: 15px auto 0;
+}
+.conter_ul{
+	width: 100%;
+	height:21px;
+}
+.conter_ul li{
+	float: left;
+	font-size: 16px;
+	color: #666;
+	padding-left: 15px;
+}
+.conter_ul li a{
+	color: #666;
+}
+.conter_img{
+	width: 1200px;
+	height: 300px;
+	margin-top: 15px;
+}
+.conter_img_div1{
+	margin-top: 15px;
+	width: 1200px;
+	height: 129px;
+	text-align: center;
+	font-size: 18px;
+	color: #000;
+	line-height: 160%;
+	padding-bottom: 15px;
+}
+.div1_scc{
+	width: 23px;
+	height: 23px;
+	margin-left: 350px;
+	position: absolute;
+	display:inherit;
+	background: url(../img/blBg.png)no-repeat -442px -144px;
+}
+.conter_p{
+	margin-left: 4px;
+	width: 64px;
+	height: 34px;
+	padding:0 25px;
+	line-height: 34px;
+	color: #fff;
+	text-align: center;
+	font-size: 16px;
+	background: #005BAC;
+}
+.center_neir{
+	width: 1190px;
+	margin: 10px auto 0;
+	border: 1px solid #666666;
+}
+.center_neir_div1_h4{
+	margin-top: 20px;
+	width: 1060;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 20px;
+	background: #DEDFDF;
+	font-size: 16px;
+}
+.center_neir_div1{
+	margin-top: 20px;
+}
+.center_neir_div1 p{
+	font-family: "宋体";
+	padding-left: 20px;
+	width: 1060px;
+	height: 25px;
+	font-size: 16px;
+	line-height: 160%;
+}
+.yil{
+	margin-top: 10px;
+}
+.cartTable{
+	width: 1180px;
+	height: 136px;
+	border: 1px solid #DEDFDF;
+	margin: 10px auto 0;
+}
+.cartTable tr{
+		border: 1px solid #DEDFDF;
+}
+.cartTable tr th{
+	font-size: 16px;
+	color: #fff;
+	padding: 0;
+	margin: 0;
+	background: #999999;
+	margin: 0;
+	padding: 0;
+}
+.th_1{
+	width: 310px;
+	height: 36px;
+}
+.th_2{
+	width: 383px;
+	height: 36px;
+}
+.th_3{
+	width: 213px;
+	height: 36px;
+}
+.th_4{
+	width: 188px;
+	height: 36px;
+}
+.th_5{
+	width: 328px;
+	height: 36px;
+}
+.cartTable tr td{
+	border: 1px solid #DEDFDF;
+	width: 288px;
+	height: 50px;
+	padding-left: 15px;
+	white-space: nowrap;/*超出部分禁止换行显示*/
+	overflow: hidden;/*超出部分隐藏*/
+	text-overflow:ellipsis;/*超出部分省略号	*/
+}
+.cartTable{
+	border-collapse: collapse;
+}
+.xia{
+	width: 100%;
+	margin-top: 10px;
+	height: 145px;
+	background: #DEDFDF;
+}
+.quna{
+	width: 267px;
+	float: right;
+	/*height: 165px;*/
+	text-align: center;
+}
+.xia_zh{
+	margin-top: 35px;
+	color: #666;
+	width: 100%;
+	height: 54px;
+	font-size: 18px;
+	border-bottom: 1px solid #333;
+}
+.quna{
+	margin-right: 60px;
+}
+.xia_xia{
+	margin-top: 5px;
+	font-size: 18px;
+	font-weight: bold;
+}
+

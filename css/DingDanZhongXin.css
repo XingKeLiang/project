@@ -1,0 +1,311 @@
+.backgTop{
+	display: block;
+    background: url(../img/result-top-btn.png) no-repeat;
+    width: 70px;
+    height: 65px;
+    position: fixed;
+    right: 50px;
+    bottom: 180px;
+    cursor: pointer;
+    z-index: 15;
+}
+.concent{
+	width: 100%;
+}
+.concent_conter{
+	width: 1200px;
+	margin: 15px auto 0;
+}
+.conter_ul{
+	width: 100%;
+	height:21px;
+}
+.conter_ul li{
+	float: left;
+	font-size: 16px;
+	color: #666;
+	padding-left: 15px;
+}
+.conter_ul li a{
+	color: #666;
+}
+.conter_img{
+	width: 1200px;
+	height: 300px;
+	margin-top: 15px;
+}
+.conter_h3{
+	margin-top: 15px;
+	font-weight: normal;
+	width: 1200px;
+	height: 34px;
+}
+.conter_h3 span{
+	float: left;
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+	font-weight: normal;
+	font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+	height: 34px;
+    line-height: 34px;
+    padding: 0 25px;
+    background-color: #005BAA;
+}
+.liebia{
+	padding-bottom: 20px;
+	margin-top: 10px;
+	border: solid 1px #BBB4B4;
+    padding: 8px 0 5px 8px;
+}
+.liebia_div1{
+	width: 1175px;
+	height: 31px;
+	margin-left: 15px;
+	margin-top: 20px;
+	display: block;
+}
+.liebia_div1_from1{
+	width: 330px;
+	height: 31px;
+	float: left;
+	line-height: 31px;
+	    background: url(../img/cc_formOrder.jpg) no-repeat;
+}
+.liebia_div1_from1_in1{
+	width: 240px;
+	color: rgb(68, 68, 60);
+	float: left;
+    height: 26px;
+    padding: 0 5px;
+    line-height: 31px;
+    font-size: 14px;
+}
+.liebia_div1_from1_in2{
+	float: right;
+	border: none;
+	width: 76px;
+	height: 31px;
+	background: Transparent;
+	cursor: pointer;
+}
+.liebia_div1_from2{
+	margin-left: 35px;
+	float: left;
+	height: 31px;
+    line-height: 31px;
+    display: block;
+}
+.liebia_div1_from2_label{
+	font-size: 14px;
+    color: #2a2a21;
+    float: left;
+    font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+    cursor: default;
+}
+.liebia_div1_from2 .liebia_div1_from2_in1{
+	float: left;
+	font-size: 14px;
+	font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+	width: 155px;
+    height: 25px;
+    line-height: 25px;
+    border: solid 1px #B8B8B8;
+    padding: 0 5px;
+    color: #2a2a21;
+}
+#from_label2{
+	margin: 0 10px;
+}
+.liebia_div1_from2_ins{
+	cursor: pointer;
+	margin-left: 25px;
+	float: right;
+	border: none;
+	width: 73px;
+    height: 29px;
+    background: url(../img/butccQuery.jpg) no-repeat;
+}
+.liebia_ul1{
+    margin-top: 20px;
+    height: 32px;
+    line-height: 32px;
+    display: block;
+    clear: both;
+    width: 1190px;
+}
+.liebia_ul1 li{
+	float: left;
+    background-color: #999;
+    border: solid 1px #ccc;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+    line-height: 32px;
+}
+.liebia_ul1_li1{
+	width: 300px;
+}
+.liebia_ul1_li2{
+	width: 155px;
+}
+.liebia_ul1_li3{
+	width: 170px;
+}
+.liebia_ul1_li4{
+	width: 150px;
+}
+.liebia_ul1_li5{
+	width: 195px;
+}
+.liebia_ul1_li6{
+	width: 200px;
+}
+.liebia_table1{
+	margin-top: 15px;
+	border: solid 1px #BBB4B4;
+	border-collapse: collapse;
+    border-spacing: 0;
+    display: table;width: 1182px;
+}
+.coreBble_Fitd{
+	border: solid 1px #BBB4B4;
+	background-color: #DEDFDF;
+    height: 35px;
+    line-height: 35px;
+   
+}
+.coreBble_Fitd span{
+	 color: #333;
+	padding-left: 15px;
+	font-size: 14px;
+	font-family: "宋体";
+	line-height: 35px;
+}
+.coreBble_Fitd_A{
+	color: #fff;
+	font-size: 16px;
+	margin-right: 10px;
+	font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+	height: 27px;
+    line-height: 27px;
+    background-color: #005BAC;
+    padding: 0 10px;
+    margin-top: 5px;
+}
+.liebia_table1_td1{
+	border: solid 1px #BBB4B4;
+	padding:15px 0;
+	font-size: 14px;
+	font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+	width: 301px;
+	color: #333;
+}
+.liebia_table1_td1 a{
+	padding-left: 10px;
+	float: left;
+	width: 90px;
+    height: 90px;
+    text-decoration: none;
+    color: #333;
+    ont-size: 14px;
+    font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+}
+.liebia_table1_tds{
+	border: solid 1px #BBB4B4;
+	text-align: center;
+	font-size: 14px;
+	font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+   	color: #333;		
+}
+.liebia_table1_td2{
+	 width: 154px;
+}
+.liebia_table1_td3{
+    width: 170px;
+}
+.liebia_table1_td4{
+	width: 150px;
+}
+.liebia_table1_td5{
+	width: 195px;
+}
+.liebia_table1_td6{
+	width: 150px;
+}
+.liebia_table1_tds span{
+	color: #333;
+}
+.liebia_table1_td1 span{
+	line-height: 160%;
+	color: #666;
+	margin-left: 20px;
+	float: left;
+	font-size: 14px;
+	font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+	width: 160px;
+    max-height: 67px;
+    overflow: hidden;
+    margin-top: 15px;
+}
+.liebia_table2{
+	margin-bottom: 10px;
+}
+.fenye{
+    font-size: 14px;
+    font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+	margin: 40px 20px 30px 0;
+	height: 40px;
+    line-height: 40px;
+}
+.fenye .Paging_divform{
+	float: right;
+	display: block;
+	font-size: 14px;
+	font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+	line-height: 40px;
+	color: #333;
+}
+.Paging_divform label{
+	float: left;
+    color: #666;
+    font-size: 14px;
+    font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+    line-height: 40px;
+}
+.Paging_divform input{
+	float: left;
+    border: solid 1px #eee;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    margin: 0 5px;
+    color: #666;
+}
+.Paging_divson a{
+	float: left;
+    color: #666;
+    border: solid 1px #CECECE;
+    margin-right: 5px;
+    padding-left: 13px;
+    padding-right: 13px;
+    background-color: #F4F4F4;
+}
+.Paging_divson span{
+	float: left;
+    margin: 0 15px;
+    font-size: 14px;
+    font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+    line-height: 40px;  
+    color: #333; 
+}
+#pagingFirst{
+	border: none;
+    color: #0066CC;
+    background: none;
+}
+#pagingA{
+	 color: #0066CC;
+}

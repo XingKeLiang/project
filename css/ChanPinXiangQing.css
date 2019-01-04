@@ -1,0 +1,88 @@
+.concent{
+	width: 100%;
+}
+.concent_conter{
+	width: 1200px;
+	margin: 15px auto 0;
+}
+.conter_ul{
+	width: 100%;
+	height:21px;
+}
+.conter_ul li{
+	float: left;
+	font-size: 16px;
+	color: #666;
+	padding-left: 15px;
+}
+.conter_ul li a{
+	color: #666;
+}
+.conter_img{
+	width: 1200px;
+	height: 300px;
+	margin-top: 15px;
+}
+.conter_div1{
+	width: 263px;
+	height: 164px;
+	float: left;
+}
+.div1_ul_li{
+	margin-top: 1px;
+    font-size: 20px;
+    font-family: "微软雅黑";
+    width: 263px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background: url(../img/procMecha_lul.jpg);
+}
+.div1_ul_li a{
+	color: #333;
+}
+.backgTop{
+	display: block;
+    background: url(../img/result-top-btn.png) no-repeat;
+    width: 70px;
+    height: 65px;
+    position: fixed;
+    right: 50px;
+    bottom: 180px;
+    cursor: pointer;
+    z-index: 15;
+}
+.xiangxi{
+	width: 1050px;
+	float: left;
+	margin-top: 20px;
+	display: block;
+	height: 513px;
+}
+.xiangxi_left{
+	width: 453px;
+	height: 513px;
+}
+.spec-preview{
+	width: 438px;
+	height: 438px;
+	float: right;
+	border:1px solid #A9A9A8;
+}
+.items{
+	float: left;
+    border: none;
+    position: relative;
+    padding: 0px;
+    cursor: pointer;
+    margin: 0px;
+    display: block;
+}
+.jqzoom{
+	vertical-align: middle;
+}
+.spec-scroll{
+	width: 453px;
+	height: 75px;
+	display: block;
+}
